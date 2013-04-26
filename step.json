@@ -13,5 +13,6 @@
     "email" : "wouter@wercker.com",
     "url" : "http://www.wercker.com"
   },
-  "license" : "MIT"
+  "license" : "MIT",
+  "optionsToEnvVars" : true
 }
