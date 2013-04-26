@@ -1,0 +1,17 @@
+{
+  "name" : "gobuild",
+  "version" : "0.0.1",
+  "description" : "Builds your Go package",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/wwwouter/wercker-step-gobuild.git"
+  },
+  "homepage" : "https://github.com/wwwouter/wercker-step-gobuild",
+  "keywords" : ["go"],
+  "author" : {
+    "name" : "Wouter Mooij",
+    "email" : "wouter@wercker.com",
+    "url" : "http://www.wercker.com"
+  },
+  "license" : "MIT"
+}
